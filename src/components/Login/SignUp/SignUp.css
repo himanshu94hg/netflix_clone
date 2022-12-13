@@ -1,0 +1,16 @@
+.signup {
+  max-width: 300px;
+  padding: 70px;
+  background-color: rgba(0, 0, 0, 0.85);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.signup form {
+  display: flex;
+  flex-direction: column;
+}
+
+.signup form input {
+  outline: 0;
+}
