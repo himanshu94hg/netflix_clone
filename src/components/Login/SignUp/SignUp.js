@@ -12,7 +12,7 @@ const SignUp = () => {
           <button>Sign In</button>
 
           <h4>
-            New to Netflix <span>Sign Up Now</span>
+            New to Netflix? <span>Sign Up Now</span>
           </h4>
         </form>
       </div>

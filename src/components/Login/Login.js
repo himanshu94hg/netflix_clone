@@ -17,7 +17,7 @@ const Login = () => {
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1200px-Netflix_2015_logo.svg.png"
           alt=""
         />
-        <button>Sign In</button>
+        <button onClick={() => setSignIn(true)}>Sign In</button>
       </div>
       <div className="login_body">
         {signIn ? (

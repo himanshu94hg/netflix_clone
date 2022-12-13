@@ -13,4 +13,33 @@
 
 .signup form input {
   outline: 0;
+  height: 40px;
+  border: 0;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+
+.signup form button {
+  padding: 16px 20px;
+  font-size: 16px;
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #e50914;
+  margin-bottom: 20px;
+}
+
+.signup form h4 {
+  color: gray;
+}
+
+.signup form h4 span {
+  color: #fff;
+  cursor: pointer;
+}
+
+.signup form h4 span:hover {
+  text-decoration: underline;
 }
